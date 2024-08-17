@@ -23,4 +23,4 @@ picom --config $HOME/.config/picom/picom.conf &
 nitrogen --restore &
 #polybar &
 
-~/.config/polybar/launch.sh --forest
+~/.config/polybar/launch.sh --forest &
